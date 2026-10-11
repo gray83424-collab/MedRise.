@@ -1,0 +1,942 @@
+[
+  {
+    "file": "diagrams/p001_i000.webp",
+    "sourcePage": 1,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p001_i001.webp",
+    "sourcePage": 1,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p001_i002.webp",
+    "sourcePage": 1,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p002_i003.webp",
+    "sourcePage": 2,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p002_i004.webp",
+    "sourcePage": 2,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p003_i005.webp",
+    "sourcePage": 3,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p003_i006.webp",
+    "sourcePage": 3,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p004_i007.webp",
+    "sourcePage": 4,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p004_i008.webp",
+    "sourcePage": 4,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p005_i009.webp",
+    "sourcePage": 5,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p005_i010.webp",
+    "sourcePage": 5,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p006_i011.webp",
+    "sourcePage": 6,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p006_i012.webp",
+    "sourcePage": 6,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p007_i013.webp",
+    "sourcePage": 7,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p007_i014.webp",
+    "sourcePage": 7,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p008_i015.webp",
+    "sourcePage": 8,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p008_i016.webp",
+    "sourcePage": 8,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p009_i018.webp",
+    "sourcePage": 9,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p009_i019.webp",
+    "sourcePage": 9,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p010_i020.webp",
+    "sourcePage": 10,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p010_i021.webp",
+    "sourcePage": 10,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p011_i022.webp",
+    "sourcePage": 11,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p011_i023.webp",
+    "sourcePage": 11,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p012_i024.webp",
+    "sourcePage": 12,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p013_i025.webp",
+    "sourcePage": 13,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p013_i026.webp",
+    "sourcePage": 13,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p014_i028.webp",
+    "sourcePage": 14,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p015_i030.webp",
+    "sourcePage": 15,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p015_i031.webp",
+    "sourcePage": 15,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p016_i032.webp",
+    "sourcePage": 16,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p017_i033.webp",
+    "sourcePage": 17,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p018_i034.webp",
+    "sourcePage": 18,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p019_i036.webp",
+    "sourcePage": 19,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p019_i037.webp",
+    "sourcePage": 19,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p020_i038.webp",
+    "sourcePage": 20,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p020_i039.webp",
+    "sourcePage": 20,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p021_i040.webp",
+    "sourcePage": 21,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p022_i041.webp",
+    "sourcePage": 22,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p022_i042.webp",
+    "sourcePage": 22,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p023_i043.webp",
+    "sourcePage": 23,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p024_i045.webp",
+    "sourcePage": 24,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p025_i046.webp",
+    "sourcePage": 25,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p026_i047.webp",
+    "sourcePage": 26,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p027_i048.webp",
+    "sourcePage": 27,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p027_i049.webp",
+    "sourcePage": 27,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p028_i052.webp",
+    "sourcePage": 28,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p029_i054.webp",
+    "sourcePage": 29,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p030_i056.webp",
+    "sourcePage": 30,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p031_i057.webp",
+    "sourcePage": 31,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p032_i059.webp",
+    "sourcePage": 32,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p033_i060.webp",
+    "sourcePage": 33,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p033_i061.webp",
+    "sourcePage": 33,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p034_i062.webp",
+    "sourcePage": 34,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p034_i063.webp",
+    "sourcePage": 34,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p035_i064.webp",
+    "sourcePage": 35,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p036_i065.webp",
+    "sourcePage": 36,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p036_i066.webp",
+    "sourcePage": 36,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p037_i067.webp",
+    "sourcePage": 37,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p037_i068.webp",
+    "sourcePage": 37,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p038_i070.webp",
+    "sourcePage": 38,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p038_i071.webp",
+    "sourcePage": 38,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p039_i072.webp",
+    "sourcePage": 39,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p040_i073.webp",
+    "sourcePage": 40,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p040_i074.webp",
+    "sourcePage": 40,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p041_i075.webp",
+    "sourcePage": 41,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p042_i076.webp",
+    "sourcePage": 42,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p042_i077.webp",
+    "sourcePage": 42,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p043_i078.webp",
+    "sourcePage": 43,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p044_i079.webp",
+    "sourcePage": 44,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p044_i080.webp",
+    "sourcePage": 44,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p045_i081.webp",
+    "sourcePage": 45,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p046_i082.webp",
+    "sourcePage": 46,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p046_i083.webp",
+    "sourcePage": 46,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p047_i084.webp",
+    "sourcePage": 47,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p048_i085.webp",
+    "sourcePage": 48,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p049_i086.webp",
+    "sourcePage": 49,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p050_i087.webp",
+    "sourcePage": 50,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p051_i088.webp",
+    "sourcePage": 51,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p052_i089.webp",
+    "sourcePage": 52,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p053_i090.webp",
+    "sourcePage": 53,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p054_i091.webp",
+    "sourcePage": 54,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p055_i092.webp",
+    "sourcePage": 55,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p056_i093.webp",
+    "sourcePage": 56,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p057_i094.webp",
+    "sourcePage": 57,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p058_i095.webp",
+    "sourcePage": 58,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p059_i096.webp",
+    "sourcePage": 59,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p060_i097.webp",
+    "sourcePage": 60,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p061_i098.webp",
+    "sourcePage": 61,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p062_i099.webp",
+    "sourcePage": 62,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p063_i100.webp",
+    "sourcePage": 63,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p064_i101.webp",
+    "sourcePage": 64,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p065_i102.webp",
+    "sourcePage": 65,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p066_i103.webp",
+    "sourcePage": 66,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p067_i104.webp",
+    "sourcePage": 67,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p068_i105.webp",
+    "sourcePage": 68,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p069_i106.webp",
+    "sourcePage": 69,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p070_i107.webp",
+    "sourcePage": 70,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p071_i108.webp",
+    "sourcePage": 71,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p072_i109.webp",
+    "sourcePage": 72,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p073_i110.webp",
+    "sourcePage": 73,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p074_i111.webp",
+    "sourcePage": 74,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p075_i112.webp",
+    "sourcePage": 75,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p076_i113.webp",
+    "sourcePage": 76,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p077_i114.webp",
+    "sourcePage": 77,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p078_i115.webp",
+    "sourcePage": 78,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p079_i116.webp",
+    "sourcePage": 79,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p080_i117.webp",
+    "sourcePage": 80,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p081_i118.webp",
+    "sourcePage": 81,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p082_i119.webp",
+    "sourcePage": 82,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p083_i120.webp",
+    "sourcePage": 83,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p084_i121.webp",
+    "sourcePage": 84,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p085_i122.webp",
+    "sourcePage": 85,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p086_i123.webp",
+    "sourcePage": 86,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p087_i124.webp",
+    "sourcePage": 87,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p088_i125.webp",
+    "sourcePage": 88,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p089_i126.webp",
+    "sourcePage": 89,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p090_i127.webp",
+    "sourcePage": 90,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p091_i128.webp",
+    "sourcePage": 91,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p092_i129.webp",
+    "sourcePage": 92,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p093_i130.webp",
+    "sourcePage": 93,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p094_i131.webp",
+    "sourcePage": 94,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p095_i132.webp",
+    "sourcePage": 95,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p096_i133.webp",
+    "sourcePage": 96,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p097_i134.webp",
+    "sourcePage": 97,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p098_i135.webp",
+    "sourcePage": 98,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p099_i136.webp",
+    "sourcePage": 99,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p100_i137.webp",
+    "sourcePage": 100,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p101_i138.webp",
+    "sourcePage": 101,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p102_i139.webp",
+    "sourcePage": 102,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p103_i140.webp",
+    "sourcePage": 103,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p104_i141.webp",
+    "sourcePage": 104,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p105_i142.webp",
+    "sourcePage": 105,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p106_i143.webp",
+    "sourcePage": 106,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p107_i144.webp",
+    "sourcePage": 107,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p108_i145.webp",
+    "sourcePage": 108,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p109_i146.webp",
+    "sourcePage": 109,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p110_i147.webp",
+    "sourcePage": 110,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p111_i148.webp",
+    "sourcePage": 111,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p112_i149.webp",
+    "sourcePage": 112,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p113_i150.webp",
+    "sourcePage": 113,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p114_i151.webp",
+    "sourcePage": 114,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p115_i152.webp",
+    "sourcePage": 115,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p116_i153.webp",
+    "sourcePage": 116,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p117_i154.webp",
+    "sourcePage": 117,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p118_i155.webp",
+    "sourcePage": 118,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p119_i156.webp",
+    "sourcePage": 119,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p120_i157.webp",
+    "sourcePage": 120,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p121_i158.webp",
+    "sourcePage": 121,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p122_i159.webp",
+    "sourcePage": 122,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p123_i160.webp",
+    "sourcePage": 123,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p124_i161.webp",
+    "sourcePage": 124,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p125_i162.webp",
+    "sourcePage": 125,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p126_i163.webp",
+    "sourcePage": 126,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p127_i164.webp",
+    "sourcePage": 127,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p128_i165.webp",
+    "sourcePage": 128,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p129_i166.webp",
+    "sourcePage": 129,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p130_i167.webp",
+    "sourcePage": 130,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p131_i168.webp",
+    "sourcePage": 131,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p132_i169.webp",
+    "sourcePage": 132,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p133_i170.webp",
+    "sourcePage": 133,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p134_i171.webp",
+    "sourcePage": 134,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p135_i172.webp",
+    "sourcePage": 135,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p136_i173.webp",
+    "sourcePage": 136,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p137_i174.webp",
+    "sourcePage": 137,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p138_i175.webp",
+    "sourcePage": 138,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p139_i176.webp",
+    "sourcePage": 139,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p140_i177.webp",
+    "sourcePage": 140,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p141_i178.webp",
+    "sourcePage": 141,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p142_i179.webp",
+    "sourcePage": 142,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p143_i180.webp",
+    "sourcePage": 143,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p144_i181.webp",
+    "sourcePage": 144,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p145_i182.webp",
+    "sourcePage": 145,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p146_i183.webp",
+    "sourcePage": 146,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p147_i184.webp",
+    "sourcePage": 147,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p148_i185.webp",
+    "sourcePage": 148,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p149_i186.webp",
+    "sourcePage": 149,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p150_i187.webp",
+    "sourcePage": 150,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p151_i188.webp",
+    "sourcePage": 151,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p152_i189.webp",
+    "sourcePage": 152,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p153_i190.webp",
+    "sourcePage": 153,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p154_i191.webp",
+    "sourcePage": 154,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p155_i192.webp",
+    "sourcePage": 155,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p156_i193.webp",
+    "sourcePage": 156,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p157_i194.webp",
+    "sourcePage": 157,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p158_i195.webp",
+    "sourcePage": 158,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p159_i196.webp",
+    "sourcePage": 159,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p160_i197.webp",
+    "sourcePage": 160,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  },
+  {
+    "file": "diagrams/p161_i198.webp",
+    "sourcePage": 161,
+    "note": "Rendered from the original supplied PDF page to ensure reliable browser display."
+  }
+]
